@@ -1,3 +1,3 @@
 # hello-world
-Just another repository for demo
-First Branch Created
+Just another repository for demo.
+# This is our first branch
